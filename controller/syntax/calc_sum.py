@@ -9,7 +9,7 @@ def lazy_sum(*args):
     def sum1():
         ax = 0
         for n in args:
-            ax += n
+    ax += n
         return ax
 
     return sum1

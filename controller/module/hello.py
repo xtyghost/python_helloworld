@@ -15,6 +15,7 @@ def test():
     else:
         print(args)
 
-print('__main__')
+
+print('__main__')ˇ
 if __name__ == '__main__':
     test()
